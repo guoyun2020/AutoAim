@@ -1,6 +1,6 @@
 # AutoAim
 An automatic CS:GO aim and shot program, which is based on PaddleX-GPU. 
-Warning: Never use it to cheat in PVP game!!!
+Attention: It only works in the map of Dust II. 
 
 ## My solution:
 - Identification: Faster-RCNN
