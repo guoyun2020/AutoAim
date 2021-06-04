@@ -1,5 +1,5 @@
 # AutoAim
-An automatic CS:GO aim and shot program, which is based on PaddleX-GPU. 
+An automatic CS:GO aim and shot program, which is based on PaddleX-GPU.   
 Attention: It only works in the map of Dust II. 
 
 ## My solution:
