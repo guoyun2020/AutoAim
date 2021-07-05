@@ -13,6 +13,3 @@ Attention: It only works in the map of Dust II.
 - The performance is varied depending on your GPU capability. 
 - My PC's performance in game_test.mp4 is kind of slow owing to my inferior NVIDIA MX150.
 
-D:.
-└─下载保存目录
-    └─SeachDownload
